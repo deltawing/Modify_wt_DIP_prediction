@@ -1,0 +1,267 @@
+DIP-2660N|refseq:NP_113741|uniprotkb:P63140,DIP-60851N|refseq:NP_075247|uniprotkb:O88763,['Nucleus'],['Cytoplasm']
+DIP-2660N|refseq:NP_113741|uniprotkb:P63140,DIP-33893N|refseq:NP_059028|uniprotkb:P12785,['Nucleus'],['Cytoplasm']
+DIP-2660N|refseq:NP_113741|uniprotkb:P63140,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,['Nucleus'],['Endoplasmic reticulum']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-60851N|refseq:NP_075247|uniprotkb:O88763,['Nucleus'],['Cytoplasm']
+DIP-60851N|refseq:NP_075247|uniprotkb:O88763,DIP-60963N|uniprotkb:Q5PQX1,['Cytoplasm'],['Nucleus']
+DIP-48448N|refseq:NP_113819|uniprotkb:Q9Z270,DIP-60851N|refseq:NP_075247|uniprotkb:O88763,"['Nucleus', 'Endoplasmic reticulum']",['Cytoplasm']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-33893N|refseq:NP_059028|uniprotkb:P12785,['Nucleus'],['Cytoplasm']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,['Nucleus'],['Endoplasmic reticulum']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-29910N|uniprotkb:Q7TMA5,['Nucleus'],['Cytoplasm']
+DIP-17016N|uniprotkb:O08816,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-17016N|uniprotkb:O08816,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-17016N|uniprotkb:O08816,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-33893N|refseq:NP_059028|uniprotkb:P12785,DIP-60963N|uniprotkb:Q5PQX1,['Cytoplasm'],['Nucleus']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-60963N|uniprotkb:Q5PQX1,['Endoplasmic reticulum'],['Nucleus']
+DIP-29910N|uniprotkb:Q7TMA5,DIP-60963N|uniprotkb:Q5PQX1,['Cytoplasm'],['Nucleus']
+DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-33254N|refseq:NP_072110|uniprotkb:Q62599,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-33254N|refseq:NP_072110|uniprotkb:Q62599,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus', 'Golgi apparatus']",['Endoplasmic reticulum']
+DIP-33254N|refseq:NP_072110|uniprotkb:Q62599,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,"['Cytoplasm', 'Nucleus', 'Golgi apparatus']",['Mitochondrion']
+DIP-33893N|refseq:NP_059028|uniprotkb:P12785,DIP-48448N|refseq:NP_113819|uniprotkb:Q9Z270,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-29910N|uniprotkb:Q7TMA5,DIP-48448N|refseq:NP_113819|uniprotkb:Q9Z270,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-48448N|refseq:NP_113819|uniprotkb:Q9Z270,DIP-57338N|uniprotkb:Q5U318,"['Nucleus', 'Endoplasmic reticulum']",['Cytoplasm']
+DIP-33893N|refseq:NP_059028|uniprotkb:P12785,DIP-60265N|uniprotkb:P25977,['Cytoplasm'],['Nucleus']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-33893N|refseq:NP_059028|uniprotkb:P12785,['Endoplasmic reticulum'],['Cytoplasm']
+DIP-33893N|refseq:NP_059028|uniprotkb:P12785,DIP-60266N|uniprotkb:Q9Z2J9,['Cytoplasm'],['Nucleus']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-60265N|uniprotkb:P25977,['Endoplasmic reticulum'],['Nucleus']
+DIP-29910N|uniprotkb:Q7TMA5,DIP-60265N|uniprotkb:P25977,['Cytoplasm'],['Nucleus']
+DIP-57338N|uniprotkb:Q5U318,DIP-60265N|uniprotkb:P25977,['Cytoplasm'],['Nucleus']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-41279N|refseq:NP_036821|uniprotkb:P06211,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-41279N|refseq:NP_036821|uniprotkb:P06211,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus', 'Golgi apparatus']",['Endoplasmic reticulum']
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-41279N|refseq:NP_036821|uniprotkb:P06211,['Mitochondrion'],"['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-29352N|refseq:NP_446343|uniprotkb:P61810,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29352N|refseq:NP_446343|uniprotkb:P61810,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29352N|refseq:NP_446343|uniprotkb:P61810,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-29910N|uniprotkb:Q7TMA5,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-60266N|uniprotkb:Q9Z2J9,['Endoplasmic reticulum'],['Nucleus']
+DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,DIP-57168N|uniprotkb:P54645,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-29910N|uniprotkb:Q7TMA5,DIP-60266N|uniprotkb:Q9Z2J9,['Cytoplasm'],['Nucleus']
+DIP-29910N|uniprotkb:Q7TMA5,DIP-30849N|refseq:NP_058689|uniprotkb:P49950,['Cytoplasm'],"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']"
+DIP-29910N|uniprotkb:Q7TMA5,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-57338N|uniprotkb:Q5U318,DIP-60266N|uniprotkb:Q9Z2J9,['Cytoplasm'],['Nucleus']
+DIP-49024N|refseq:NP_036678|uniprotkb:P18901,DIP-60266N|uniprotkb:Q9Z2J9,['Endoplasmic reticulum'],['Nucleus']
+DIP-60266N|uniprotkb:Q9Z2J9,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-49024N|refseq:NP_036678|uniprotkb:P18901,DIP-57168N|uniprotkb:P54645,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-46284N|refseq:NP_077046|uniprotkb:P97612,DIP-57168N|uniprotkb:P54645,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-57168N|uniprotkb:P54645,['Mitochondrion'],"['Cytoplasm', 'Nucleus']"
+DIP-30849N|refseq:NP_058689|uniprotkb:P49950,DIP-57338N|uniprotkb:Q5U318,"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']",['Cytoplasm']
+DIP-30849N|refseq:NP_058689|uniprotkb:P49950,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']","['Cytoplasm', 'Golgi apparatus']"
+DIP-30849N|refseq:NP_058689|uniprotkb:P49950,DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']",['Cytoplasm']
+DIP-49024N|refseq:NP_036678|uniprotkb:P18901,DIP-57338N|uniprotkb:Q5U318,['Endoplasmic reticulum'],['Cytoplasm']
+DIP-28140N|uniprotkb:P09416,DIP-57338N|uniprotkb:Q5U318,['Nucleus'],['Cytoplasm']
+DIP-2662N|uniprotkb:Q62725,DIP-57338N|uniprotkb:Q5U318,['Nucleus'],['Cytoplasm']
+DIP-46060N|refseq:NP_942021|uniprotkb:P83953,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-49024N|refseq:NP_036678|uniprotkb:P18901,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-28140N|uniprotkb:P09416,DIP-49024N|refseq:NP_036678|uniprotkb:P18901,['Nucleus'],['Endoplasmic reticulum']
+DIP-28140N|uniprotkb:P09416,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-2662N|uniprotkb:Q62725,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Mitochondrion'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-46060N|refseq:NP_942021|uniprotkb:P83953,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-46060N|refseq:NP_942021|uniprotkb:P83953,['Mitochondrion'],"['Cytoplasm', 'Nucleus']"
+DIP-40510N|uniprotkb:Q62976,DIP-46060N|refseq:NP_942021|uniprotkb:P83953,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-28140N|uniprotkb:P09416,DIP-48909N|refseq:NP_062036|uniprotkb:P97887,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-2662N|uniprotkb:Q62725,DIP-48909N|refseq:NP_062036|uniprotkb:P97887,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-48909N|refseq:NP_062036|uniprotkb:P97887,['Mitochondrion'],"['Cytoplasm', 'Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-46284N|refseq:NP_077046|uniprotkb:P97612,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,['Mitochondrion'],"['Cytoplasm', 'Nucleus']"
+DIP-40510N|uniprotkb:Q62976,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-28140N|uniprotkb:P09416,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,['Nucleus'],"['Cytoplasm', 'Golgi apparatus']"
+DIP-28140N|uniprotkb:P09416,DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,['Nucleus'],['Cytoplasm']
+DIP-28140N|uniprotkb:P09416,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Nucleus'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-2662N|uniprotkb:Q62725,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,['Nucleus'],"['Cytoplasm', 'Golgi apparatus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,['Mitochondrion'],"['Cytoplasm', 'Golgi apparatus']"
+DIP-40510N|uniprotkb:Q62976,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,['Endoplasmic reticulum'],"['Cytoplasm', 'Golgi apparatus']"
+DIP-36536N|uniprotkb:Q63699,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-36536N|uniprotkb:Q63699,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,"['Cytoplasm', 'Nucleus']",['Mitochondrion']
+DIP-36536N|uniprotkb:Q63699,DIP-40510N|uniprotkb:Q62976,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-2662N|uniprotkb:Q62725,DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,['Nucleus'],['Cytoplasm']
+DIP-2662N|uniprotkb:Q62725,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Nucleus'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-2662N|uniprotkb:Q62725,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,['Nucleus'],['Mitochondrion']
+DIP-682N|uniprotkb:P46933,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-682N|uniprotkb:P46933,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,"['Cytoplasm', 'Nucleus']",['Mitochondrion']
+DIP-682N|uniprotkb:P46933,DIP-40510N|uniprotkb:Q62976,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Cytoplasm'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,['Cytoplasm'],['Mitochondrion']
+DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,DIP-40510N|uniprotkb:Q62976,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Mitochondrion'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Cytoplasm'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,"['Cytoplasm', 'Nucleus']",['Mitochondrion']
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,['Cytoplasm'],['Mitochondrion']
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-60770N|refseq:NP_058761|uniprotkb:P63079,['Mitochondrion'],['Cytoplasm']
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-40510N|uniprotkb:Q62976,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-40510N|uniprotkb:Q62976,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-40510N|uniprotkb:Q62976,DIP-60770N|refseq:NP_058761|uniprotkb:P63079,['Endoplasmic reticulum'],['Cytoplasm']
+DIP-48660N|refseq:NP_058956|uniprotkb:P20291,DIP-60770N|refseq:NP_058761|uniprotkb:P63079,"['Nucleus', 'Endoplasmic reticulum']",['Cytoplasm']
+DIP-59867N|refseq:NP_058687|uniprotkb:P15823,DIP-60770N|refseq:NP_058761|uniprotkb:P63079,['Nucleus'],['Cytoplasm']
+DIP-40510N|uniprotkb:Q62976,DIP-61212N|refseq:NP_113917|uniprotkb:P53042,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-61212N|refseq:NP_113917|uniprotkb:P53042,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-61212N|refseq:NP_113917|uniprotkb:P53042,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,DIP-40510N|uniprotkb:Q62976,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-28139N|uniprotkb:P21272,DIP-40510N|uniprotkb:Q62976,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29029N|refseq:NP_067731|uniprotkb:O08679,DIP-40510N|uniprotkb:Q62976,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,['Cytoplasm'],['Nucleus']
+DIP-28139N|uniprotkb:P21272,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-28139N|uniprotkb:P21272,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-28139N|uniprotkb:P21272,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29029N|refseq:NP_067731|uniprotkb:O08679,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-35759N|refseq:NP_775158|uniprotkb:O35240,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Cytoplasm'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-29029N|refseq:NP_067731|uniprotkb:O08679,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-29029N|refseq:NP_067731|uniprotkb:O08679,DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,['Cytoplasm'],['Nucleus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-29029N|refseq:NP_067731|uniprotkb:O08679,['Nucleus'],['Cytoplasm']
+DIP-35759N|refseq:NP_775158|uniprotkb:O35240,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-35759N|refseq:NP_775158|uniprotkb:O35240,['Nucleus'],['Cytoplasm']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-35759N|refseq:NP_775158|uniprotkb:O35240,['Nucleus'],['Cytoplasm']
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-37486N|uniprotkb:P97879,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,"['Cytoplasm', 'Endoplasmic reticulum']",['Nucleus']
+DIP-57661N|uniprotkb:P14842,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,['Cytoplasm'],['Nucleus']
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,['Cytoplasm'],['Nucleus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-29761N|refseq:NP_446289|uniprotkb:P84092,['Nucleus'],['Cytoplasm']
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-37486N|uniprotkb:P97879,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-37486N|uniprotkb:P97879,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-37486N|uniprotkb:P97879,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Endoplasmic reticulum']",['Golgi apparatus']
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-42185N|refseq:NP_150233|uniprotkb:P47196,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-42185N|refseq:NP_150233|uniprotkb:P47196,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-42185N|refseq:NP_150233|uniprotkb:P47196,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-57661N|uniprotkb:P14842,['Nucleus'],['Cytoplasm']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-57661N|uniprotkb:P14842,['Nucleus'],['Cytoplasm']
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-57661N|uniprotkb:P14842,['Endoplasmic reticulum'],['Cytoplasm']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-37114N|refseq:NP_599193|uniprotkb:Q6RUV5,['Nucleus'],['Cytoplasm']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-37114N|refseq:NP_599193|uniprotkb:Q6RUV5,['Nucleus'],['Cytoplasm']
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-37114N|refseq:NP_599193|uniprotkb:Q6RUV5,['Endoplasmic reticulum'],['Cytoplasm']
+DIP-29590N|refseq:NP_446303|uniprotkb:Q8VGC3,DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,['Cytoplasm'],['Nucleus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-29590N|refseq:NP_446303|uniprotkb:Q8VGC3,['Nucleus'],['Cytoplasm']
+DIP-29590N|refseq:NP_446303|uniprotkb:Q8VGC3,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-32990N|refseq:NP_058894|uniprotkb:P35465,['Nucleus'],['Cytoplasm']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,['Nucleus'],['Endoplasmic reticulum']
+DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,['Nucleus'],['Golgi apparatus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-32990N|refseq:NP_058894|uniprotkb:P35465,['Nucleus'],['Cytoplasm']
+DIP-32990N|refseq:NP_058894|uniprotkb:P35465,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-32990N|refseq:NP_058894|uniprotkb:P35465,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,['Cytoplasm'],['Golgi apparatus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,['Nucleus'],['Endoplasmic reticulum']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,['Nucleus'],['Golgi apparatus']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-60007N|refseq:NP_036701|uniprotkb:P13264,['Nucleus'],"['Cytoplasm', 'Mitochondrion']"
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-44817N|refseq:NP_077044|uniprotkb:P28023,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-60384N|uniprotkb:B0K019,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-34793N|refseq:NP_036699|uniprotkb:P08050,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-44817N|refseq:NP_077044|uniprotkb:P28023,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-44817N|refseq:NP_077044|uniprotkb:P28023,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-44817N|refseq:NP_077044|uniprotkb:P28023,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-60384N|uniprotkb:B0K019,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,DIP-60384N|uniprotkb:B0K019,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-60384N|uniprotkb:B0K019,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-1164N|refseq:NP_114054|uniprotkb:P11030,"['Cytoplasm', 'Nucleus']","['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-48659N|refseq:NP_036954|uniprotkb:P12527,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-48659N|refseq:NP_036954|uniprotkb:P12527,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-48659N|refseq:NP_036954|uniprotkb:P12527,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-60097N|refseq:NP_058871|uniprotkb:Q63433,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,DIP-60097N|refseq:NP_058871|uniprotkb:Q63433,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-60097N|refseq:NP_058871|uniprotkb:Q63433,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-61214N|refseq:NP_596896|uniprotkb:Q923I8,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus']",['Golgi apparatus']
+DIP-38940N|uniprotkb:P06536,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",['Golgi apparatus']
+DIP-60007N|refseq:NP_036701|uniprotkb:P13264,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Cytoplasm', 'Mitochondrion']",['Golgi apparatus']
+DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,DIP-61214N|refseq:NP_596896|uniprotkb:Q923I8,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-61214N|refseq:NP_596896|uniprotkb:Q923I8,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-38940N|uniprotkb:P06536,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus', 'Mitochondrion']",['Endoplasmic reticulum']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-38940N|uniprotkb:P06536,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus', 'Mitochondrion']"
+DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,DIP-60007N|refseq:NP_036701|uniprotkb:P13264,['Endoplasmic reticulum'],"['Cytoplasm', 'Mitochondrion']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-60007N|refseq:NP_036701|uniprotkb:P13264,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Mitochondrion']"
+DIP-60007N|refseq:NP_036701|uniprotkb:P13264,DIP-60962N|uniprotkb:Q9R193,"['Cytoplasm', 'Mitochondrion']",['Nucleus']
+DIP-37053N|refseq:NP_445809|uniprotkb:Q9WU82,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Nucleus']",['Endoplasmic reticulum']
+DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,DIP-59941N|refseq:NP_001099190|uniprotkb:Q63746,['Endoplasmic reticulum'],"['Cytoplasm', 'Nucleus']"
+DIP-37019N|refseq:NP_112384|uniprotkb:P50503,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,['Cytoplasm'],['Endoplasmic reticulum']
+DIP-29715N|refseq:NP_001007236|uniprotkb:P29994,DIP-60962N|uniprotkb:Q9R193,"['Cytoplasm', 'Endoplasmic reticulum']",['Nucleus']
+DIP-28138N|uniprotkb:P05554,DIP-29715N|refseq:NP_001007236|uniprotkb:P29994,['Nucleus'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-37053N|refseq:NP_445809|uniprotkb:Q9WU82,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-59941N|refseq:NP_001099190|uniprotkb:Q63746,"['Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-37019N|refseq:NP_112384|uniprotkb:P50503,"['Endoplasmic reticulum', 'Golgi apparatus']",['Cytoplasm']
+DIP-37019N|refseq:NP_112384|uniprotkb:P50503,DIP-60962N|uniprotkb:Q9R193,['Cytoplasm'],['Nucleus']
+DIP-28138N|uniprotkb:P05554,DIP-37019N|refseq:NP_112384|uniprotkb:P50503,['Nucleus'],['Cytoplasm']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-46364N|refseq:NP_997688|uniprotkb:Q6QLM7,"['Endoplasmic reticulum', 'Golgi apparatus']",['Cytoplasm']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-60962N|uniprotkb:Q9R193,"['Endoplasmic reticulum', 'Golgi apparatus']",['Nucleus']
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-28138N|uniprotkb:P05554,"['Endoplasmic reticulum', 'Golgi apparatus']",['Nucleus']
+DIP-46364N|refseq:NP_997688|uniprotkb:Q6QLM7,DIP-60962N|uniprotkb:Q9R193,['Cytoplasm'],['Nucleus']
+DIP-28138N|uniprotkb:P05554,DIP-46364N|refseq:NP_997688|uniprotkb:Q6QLM7,['Nucleus'],['Cytoplasm']
+DIP-33263N|refseq:NP_074056|uniprotkb:Q03555,DIP-60962N|uniprotkb:Q9R193,['Cytoplasm'],['Nucleus']
+DIP-28138N|uniprotkb:P05554,DIP-33263N|refseq:NP_074056|uniprotkb:Q03555,['Nucleus'],['Cytoplasm']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-2660N|refseq:NP_113741|uniprotkb:P63140,['Nucleus'],['Nucleus']
+DIP-17016N|uniprotkb:O08816,DIP-60851N|refseq:NP_075247|uniprotkb:O88763,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-1071N|refseq:NP_037085|uniprotkb:P10158,DIP-17016N|uniprotkb:O08816,['Nucleus'],"['Cytoplasm', 'Nucleus']"
+DIP-17016N|uniprotkb:O08816,DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,DIP-60963N|uniprotkb:Q5PQX1,"['Cytoplasm', 'Nucleus']",['Nucleus']
+DIP-29842N|refseq:NP_766633|uniprotkb:Q8K3Y6,DIP-33254N|refseq:NP_072110|uniprotkb:Q62599,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-33254N|refseq:NP_072110|uniprotkb:Q62599,DIP-33893N|refseq:NP_059028|uniprotkb:P12785,"['Cytoplasm', 'Nucleus', 'Golgi apparatus']",['Cytoplasm']
+DIP-48448N|refseq:NP_113819|uniprotkb:Q9Z270,DIP-60265N|uniprotkb:P25977,"['Nucleus', 'Endoplasmic reticulum']",['Nucleus']
+DIP-33893N|refseq:NP_059028|uniprotkb:P12785,DIP-41279N|refseq:NP_036821|uniprotkb:P06211,['Cytoplasm'],"['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-41279N|refseq:NP_036821|uniprotkb:P06211,DIP-60265N|uniprotkb:P25977,"['Cytoplasm', 'Nucleus', 'Golgi apparatus']",['Nucleus']
+DIP-29352N|refseq:NP_446343|uniprotkb:P61810,DIP-41279N|refseq:NP_036821|uniprotkb:P06211,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus', 'Golgi apparatus']"
+DIP-29352N|refseq:NP_446343|uniprotkb:P61810,DIP-29910N|uniprotkb:Q7TMA5,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-30849N|refseq:NP_058689|uniprotkb:P49950,DIP-31527N|refseq:NP_036920|uniprotkb:Q62696,"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']",['Endoplasmic reticulum']
+DIP-29910N|uniprotkb:Q7TMA5,DIP-57168N|uniprotkb:P54645,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
+DIP-57168N|uniprotkb:P54645,DIP-60266N|uniprotkb:Q9Z2J9,"['Cytoplasm', 'Nucleus']",['Nucleus']
+DIP-57168N|uniprotkb:P54645,DIP-57338N|uniprotkb:Q5U318,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-30849N|refseq:NP_058689|uniprotkb:P49950,DIP-46060N|refseq:NP_942021|uniprotkb:P83953,"['Nucleus', 'Mitochondrion', 'Endoplasmic reticulum']","['Cytoplasm', 'Nucleus']"
+DIP-57338N|uniprotkb:Q5U318,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Cytoplasm'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-49024N|refseq:NP_036678|uniprotkb:P18901,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,['Endoplasmic reticulum'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-46060N|refseq:NP_942021|uniprotkb:P83953,DIP-60850N|refseq:NP_001100728|uniprotkb:D4A4K3,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-46060N|refseq:NP_942021|uniprotkb:P83953,DIP-48909N|refseq:NP_062036|uniprotkb:P97887,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-48909N|refseq:NP_062036|uniprotkb:P97887,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,"['Cytoplasm', 'Endoplasmic reticulum', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,DIP-60794N|refseq:NP_077375|uniprotkb:Q9R1T5,"['Cytoplasm', 'Golgi apparatus']","['Cytoplasm', 'Nucleus']"
+DIP-28140N|uniprotkb:P09416,DIP-36536N|uniprotkb:Q63699,['Nucleus'],"['Cytoplasm', 'Nucleus']"
+DIP-36536N|uniprotkb:Q63699,DIP-60171N|refseq:NP_110471|uniprotkb:Q63054,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Golgi apparatus']"
+DIP-682N|uniprotkb:P46933,DIP-36536N|uniprotkb:Q63699,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-682N|uniprotkb:P46933,DIP-2662N|uniprotkb:Q62725,"['Cytoplasm', 'Nucleus']",['Nucleus']
+DIP-682N|uniprotkb:P46933,DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-30941N|refseq:NP_445912|uniprotkb:Q9EP80,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-40510N|uniprotkb:Q62976,DIP-46284N|refseq:NP_077046|uniprotkb:P97612,['Endoplasmic reticulum'],"['Endoplasmic reticulum', 'Golgi apparatus']"
+DIP-37068N|refseq:NP_112643|uniprotkb:Q9Z2L0,DIP-38940N|uniprotkb:P06536,['Mitochondrion'],"['Cytoplasm', 'Nucleus', 'Mitochondrion']"
+DIP-29532N|refseq:NP_073206|uniprotkb:Q62667,DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-33271N|refseq:NP_112514|uniprotkb:Q9Z340,DIP-60770N|refseq:NP_058761|uniprotkb:P63079,['Cytoplasm'],['Cytoplasm']
+DIP-60770N|refseq:NP_058761|uniprotkb:P63079,DIP-61212N|refseq:NP_113917|uniprotkb:P53042,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
+DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,DIP-61212N|refseq:NP_113917|uniprotkb:P53042,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
+DIP-40510N|uniprotkb:Q62976,DIP-48660N|refseq:NP_058956|uniprotkb:P20291,['Endoplasmic reticulum'],"['Nucleus', 'Endoplasmic reticulum']"
+DIP-28139N|uniprotkb:P21272,DIP-29191N|refseq:NP_074052|uniprotkb:Q62768,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-28139N|uniprotkb:P21272,DIP-29029N|refseq:NP_067731|uniprotkb:O08679,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-48660N|refseq:NP_058956|uniprotkb:P20291,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,"['Nucleus', 'Endoplasmic reticulum']",['Nucleus']
+DIP-29029N|refseq:NP_067731|uniprotkb:O08679,DIP-35759N|refseq:NP_775158|uniprotkb:O35240,['Cytoplasm'],['Cytoplasm']
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-35759N|refseq:NP_775158|uniprotkb:O35240,['Cytoplasm'],['Cytoplasm']
+DIP-42185N|refseq:NP_150233|uniprotkb:P47196,DIP-59867N|refseq:NP_058687|uniprotkb:P15823,"['Cytoplasm', 'Nucleus']",['Nucleus']
+DIP-29761N|refseq:NP_446289|uniprotkb:P84092,DIP-37486N|uniprotkb:P97879,['Cytoplasm'],"['Cytoplasm', 'Endoplasmic reticulum']"
+DIP-37486N|uniprotkb:P97879,DIP-42185N|refseq:NP_150233|uniprotkb:P47196,"['Cytoplasm', 'Endoplasmic reticulum']","['Cytoplasm', 'Nucleus']"
+DIP-42185N|refseq:NP_150233|uniprotkb:P47196,DIP-57661N|uniprotkb:P14842,"['Cytoplasm', 'Nucleus']",['Cytoplasm']
+DIP-37114N|refseq:NP_599193|uniprotkb:Q6RUV5,DIP-57661N|uniprotkb:P14842,['Cytoplasm'],['Cytoplasm']
+DIP-29590N|refseq:NP_446303|uniprotkb:Q8VGC3,DIP-37114N|refseq:NP_599193|uniprotkb:Q6RUV5,['Cytoplasm'],['Cytoplasm']
+DIP-29590N|refseq:NP_446303|uniprotkb:Q8VGC3,DIP-32990N|refseq:NP_058894|uniprotkb:P35465,['Cytoplasm'],['Cytoplasm']
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-29865N|refseq:NP_001094291|uniprotkb:P39949,['Nucleus'],['Nucleus']
+DIP-32990N|refseq:NP_058894|uniprotkb:P35465,DIP-44817N|refseq:NP_077044|uniprotkb:P28023,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
+DIP-653N|refseq:NP_068607|uniprotkb:P17325,DIP-44817N|refseq:NP_077044|uniprotkb:P28023,['Nucleus'],"['Cytoplasm', 'Nucleus']"
+DIP-34793N|refseq:NP_036699|uniprotkb:P08050,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,['Endoplasmic reticulum'],['Endoplasmic reticulum']
+DIP-44817N|refseq:NP_077044|uniprotkb:P28023,DIP-60384N|uniprotkb:B0K019,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-60384N|uniprotkb:B0K019,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-487N|refseq:NP_059043|uniprotkb:P21708,DIP-48659N|refseq:NP_036954|uniprotkb:P12527,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-48659N|refseq:NP_036954|uniprotkb:P12527,DIP-60097N|refseq:NP_058871|uniprotkb:Q63433,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-60097N|refseq:NP_058871|uniprotkb:Q63433,DIP-61214N|refseq:NP_596896|uniprotkb:Q923I8,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-1164N|refseq:NP_114054|uniprotkb:P11030,DIP-61630N|refseq:NP_149088|uniprotkb:O55166,"['Endoplasmic reticulum', 'Golgi apparatus']",['Golgi apparatus']
+DIP-38940N|uniprotkb:P06536,DIP-61214N|refseq:NP_596896|uniprotkb:Q923I8,"['Cytoplasm', 'Nucleus', 'Mitochondrion']","['Cytoplasm', 'Nucleus']"
+DIP-38940N|uniprotkb:P06536,DIP-60007N|refseq:NP_036701|uniprotkb:P13264,"['Cytoplasm', 'Nucleus', 'Mitochondrion']","['Cytoplasm', 'Mitochondrion']"
+DIP-29715N|refseq:NP_001007236|uniprotkb:P29994,DIP-60007N|refseq:NP_036701|uniprotkb:P13264,"['Cytoplasm', 'Endoplasmic reticulum']","['Cytoplasm', 'Mitochondrion']"
+DIP-29715N|refseq:NP_001007236|uniprotkb:P29994,DIP-59551N|refseq:NP_001020303|uniprotkb:Q5BJU5,"['Cytoplasm', 'Endoplasmic reticulum']",['Endoplasmic reticulum']
+DIP-29715N|refseq:NP_001007236|uniprotkb:P29994,DIP-37053N|refseq:NP_445809|uniprotkb:Q9WU82,"['Cytoplasm', 'Endoplasmic reticulum']","['Cytoplasm', 'Nucleus']"
+DIP-37053N|refseq:NP_445809|uniprotkb:Q9WU82,DIP-59941N|refseq:NP_001099190|uniprotkb:Q63746,"['Cytoplasm', 'Nucleus']","['Cytoplasm', 'Nucleus']"
+DIP-37019N|refseq:NP_112384|uniprotkb:P50503,DIP-59941N|refseq:NP_001099190|uniprotkb:Q63746,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
+DIP-37019N|refseq:NP_112384|uniprotkb:P50503,DIP-46364N|refseq:NP_997688|uniprotkb:Q6QLM7,['Cytoplasm'],['Cytoplasm']
+DIP-28138N|uniprotkb:P05554,DIP-60962N|uniprotkb:Q9R193,['Nucleus'],['Nucleus']
+DIP-28138N|uniprotkb:P05554,DIP-41330N|refseq:NP_037213|uniprotkb:O35346,['Nucleus'],"['Cytoplasm', 'Nucleus']"
+DIP-33263N|refseq:NP_074056|uniprotkb:Q03555,DIP-41330N|refseq:NP_037213|uniprotkb:O35346,['Cytoplasm'],"['Cytoplasm', 'Nucleus']"
