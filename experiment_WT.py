@@ -15,6 +15,8 @@ from sklearn import metrics
 from sklearn.model_selection import cross_val_predict
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.grid_search import GridSearchCV
+from sklearn.cross_validation import train_test_split
 S = 0
 opposite_path = os.path.abspath('')
 
@@ -68,9 +70,18 @@ def main():
             labelList = data[:,-1]
             print('feature, label constructed', '\ndata.size:', data.size, len(labelList), '\n')
             
-            clf2 = ExtraTreesClassifier(n_estimators=200)
-            clf4 = QuadraticDiscriminantAnalysis()
-            clf = [clf2,clf4]
+            X_train, X_test, y_train, y_test = train_test_split(featureList, labelList, test_size=0.20)
+            clf = ExtraTreesClassifier()
+            param_grid = {'n_estimators': [x for x in range(140, 220, 20)],
+                     'min_samples_split': [2, 3, 4],
+                     'max_depth': [x for x in range(7, 10, 1)]},
+            grid_search = GridSearchCV(estimator = clf, param_grid = param_grid, cv = 4, n_jobs = -1)
+            grid_search.fit(X_train, y_train)
+            best_parameters = grid_search.best_estimator_.get_params()
+            
+            clf1 = ExtraTreesClassifier(n_estimators=best_parameters['n_estimators'], min_samples_split=best_parameters['min_samples_split'], max_depth=best_parameters['max_depth'])
+            clf2 = QuadraticDiscriminantAnalysis()
+            clf = [clf1,clf2]
             clf_name = ['ExtraTrees','QuadraticDiscriminant']
             num = 0
             for i in clf:
