@@ -64,7 +64,7 @@ def main():
                      'min_samples_split': [2, 3, 4],
                      'max_depth': [x for x in range(6, 12, 2)]},
                     {'loss' : ['deviance', 'exponential'],
-                     'learning_rate' : [x/10 for x in range(1, 9, 2)],
+                     'learning_rate' : [x/10 for x in range(1, 5, 1)],
                      'n_estimators' : [x for x in range(50, 260, 50)],
                      'max_depth' : [x for x in range(3, 8, 1)]},
                      {'penalty' : ['l1', 'l2'],
