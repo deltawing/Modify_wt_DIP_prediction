@@ -27,7 +27,7 @@ We have also implemented some of the methods mentioned in others' studies for pr
 The predictive performance of these predictor can be seen by:
 > python experiment_comparison.py
 >
-After running experiment_WT.py, experiment_comparison.py, we provide a histograms to reflect the performance gap between our method and the comparative scenario:
+After running experiment_WT.py, experiment_comparison.py, we provide a histograms to reflect the performance gap between the comparative scenario and our method :
 > python draw_picture.py
 >
 We also provide the demo of the impact of different number of wavelets used on predictor performance. You can see the demo by:
