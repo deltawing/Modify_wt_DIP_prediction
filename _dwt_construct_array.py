@@ -58,16 +58,18 @@ def discrete_wavelet_transform(protein_array, locate_feature, dwt_name, key_leng
                 cD4array = take_obvious_item(cD4)
                 cD3array = take_obvious_item(cD3)
                 cD2array = take_obvious_item(cD2)
-                cD1array = np.array(cD1).astype(np.float32)
-                cD1array = [cD1array.mean(), cD1array.var()]
+                cD1array = take_obvious_item(cD1)
+                #cD1array = np.array(cD1).astype(np.float32)
+                #cD1array = [cD1array.mean(), cD1array.var()]
                 return_DWT_array += cA4array + cD4array + cD3array + cD2array + cD1array
             elif max_level == 3:   
                 cA3, cD3, cD2, cD1 = pywt.wavedec(test_DWT_array, dwt_name_use, level=3)
                 cA3array = take_obvious_item(cA3)    
                 cD3array = take_obvious_item(cD3)
                 cD2array = take_obvious_item(cD2)
-                cD1array = np.array(cD1).astype(np.float32)
-                cD1array = [cD1array.mean(),cD1array.var()]
+                cD1array = take_obvious_item(cD1)
+                #cD1array = np.array(cD1).astype(np.float32)
+                #cD1array = [cD1array.mean(),cD1array.var()]
                 return_DWT_array += cA3array + cD3array + cD2array + cD1array
     return return_DWT_array
 

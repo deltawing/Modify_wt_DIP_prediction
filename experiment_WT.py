@@ -11,12 +11,15 @@ import numpy as np
 import _read_data_method
 import _adjusted_wavelets_combination
 import _dwt_construct_array
+import _lstm
 from sklearn import metrics
 from sklearn.model_selection import cross_val_predict
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import train_test_split
+import tensorflow as tf
+
 S = 0
 opposite_path = os.path.abspath('')
 
@@ -26,6 +29,20 @@ key_length = 64 #Adjusted minimum length of amino acid sequence
 This script is focusing on revealing the influences of different number of wavelets used in constitute a feature.
 Output file in ./data/test_result
 '''
+
+def tf_record(X, Y, category):
+    if os.path.exists(category+'.tfrecord'):   # 删掉以前的summary，以免重合
+        os.remove(category+'.tfrecord')
+    writer = tf.python_io.TFRecordWriter(category+'.tfrecord')
+    for i in range(len(X)):
+        features={}
+        features['X_batch'] = tf.train.Feature(float_list = tf.train.FloatList(value=X[i]))
+        features['Y_batch'] = tf.train.Feature(float_list = tf.train.FloatList(value=[Y[i]]))
+        tf_features = tf.train.Features(feature= features)
+        tf_example = tf.train.Example(features = tf_features)
+        tf_serialized = tf_example.SerializeToString()
+        writer.write(tf_serialized)
+    writer.close()
 
 def main():
     global key_length
@@ -39,8 +56,9 @@ def main():
         mod = int(mod)
         
     #Species' names of the dataset that will be tested
-    species = ['Arabidopsis_thaliana','Bos_taurus','Caenorhabditis_elegans','Drosophila_melanogaster',
-               'Homo_sapiens','Mus_musculus','Rattus_norvegicus','Saccharomyces_cerevisiae']
+    '''species = ['Arabidopsis_thaliana','Bos_taurus','Caenorhabditis_elegans','Drosophila_melanogaster',
+               'Homo_sapiens','Mus_musculus','Rattus_norvegicus','Saccharomyces_cerevisiae']'''
+    species = ['Arabidopsis_thaliana']
     for name_ in species:
         # read data
         locate_feature = _read_data_method.transfer_feature()
@@ -71,7 +89,18 @@ def main():
             print('feature, label constructed', '\ndata.size:', data.size, len(labelList), '\n')
             
             X_train, X_test, y_train, y_test = train_test_split(featureList, labelList, test_size=0.20)
-            clf = ExtraTreesClassifier()
+            tf_record(X_train, y_train, 'train')
+            print("tf_train_record construct")
+            tf_record(X_test, y_test, 'test')
+            print("tf_test_record construct")
+            #_lstm.apply_lstm(len(X_train), len(X_test))
+
+
+
+
+
+
+    '''        clf = ExtraTreesClassifier()
             param_grid = {'n_estimators': [x for x in range(140, 220, 20)],
                      'min_samples_split': [2, 3, 4],
                      'max_depth': [x for x in range(7, 10, 1)]},
@@ -99,7 +128,7 @@ def main():
             os.makedirs(os.path.join(opposite_path, 'data','test_result'))                
         with open (os.path.join(opposite_path, 'data','test_result','adv_WT_'+file_name+name_+'.csv'),'w',newline='')as T: 
             featured_array5 = csv.writer(T)
-            featured_array5.writerows(output_data)
+            featured_array5.writerows(output_data)'''
         
 if __name__ == '__main__':
     main()
