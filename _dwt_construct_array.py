@@ -31,10 +31,10 @@ def dwt_construct_array(temp_interact_hash, locate_feature, locate_fasta, label,
             dwt_featured_proteinA = iPP_Esml(dip_proteinA, locate_feature, dwt_name, key_length)
             dwt_featured_proteinB = iPP_Esml(dip_proteinB, locate_feature, dwt_name, key_length)
         else:
-            dwt_featured_proteinA = discrete_wavelet_transform(dip_proteinA, locate_feature, dwt_name, key_length)
-            dwt_featured_proteinB = discrete_wavelet_transform(dip_proteinB, locate_feature, dwt_name, key_length)
+            dwt_featured_proteinA, max_level = discrete_wavelet_transform(dip_proteinA, locate_feature, dwt_name, key_length)
+            dwt_featured_proteinB, max_level = discrete_wavelet_transform(dip_proteinB, locate_feature, dwt_name, key_length)
         dwt_array += [dwt_featured_proteinA + dwt_featured_proteinB + [label]]
-    return dwt_array
+    return dwt_array, max_level
 
 
 '''
@@ -62,6 +62,7 @@ def discrete_wavelet_transform(protein_array, locate_feature, dwt_name, key_leng
                 #cD1array = np.array(cD1).astype(np.float32)
                 #cD1array = [cD1array.mean(), cD1array.var()]
                 return_DWT_array += cA4array + cD4array + cD3array + cD2array + cD1array
+                max_level = 4
             elif max_level == 3:   
                 cA3, cD3, cD2, cD1 = pywt.wavedec(test_DWT_array, dwt_name_use, level=3)
                 cA3array = take_obvious_item(cA3)    
@@ -71,7 +72,7 @@ def discrete_wavelet_transform(protein_array, locate_feature, dwt_name, key_leng
                 #cD1array = np.array(cD1).astype(np.float32)
                 #cD1array = [cD1array.mean(),cD1array.var()]
                 return_DWT_array += cA3array + cD3array + cD2array + cD1array
-    return return_DWT_array
+    return return_DWT_array, max_level
 
 
 '''

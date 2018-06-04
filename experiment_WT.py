@@ -70,8 +70,8 @@ def main():
         wavelets_comb, file_name = _adjusted_wavelets_combination.adjusted_wavelets_combination(mod)
         for DWT_name in wavelets_comb:   
             output_data += [DWT_name]
-            dwt_Positive_feature_rows = _dwt_construct_array.dwt_construct_array(locate_dip_matrix_POS, locate_feature, locate_fasta, '0', key_length, DWT_name, 'Ture')
-            dwt_Negative_feature_rows = _dwt_construct_array.dwt_construct_array(locate_dip_matrix_NEG, locate_feature, locate_fasta, '1', key_length, DWT_name, 'Ture')
+            dwt_Positive_feature_rows, max_level = _dwt_construct_array.dwt_construct_array(locate_dip_matrix_POS, locate_feature, locate_fasta, '0', key_length, DWT_name, 'Ture')
+            dwt_Negative_feature_rows, max_level = _dwt_construct_array.dwt_construct_array(locate_dip_matrix_NEG, locate_feature, locate_fasta, '1', key_length, DWT_name, 'Ture')
             dwt_feature = dwt_Negative_feature_rows + dwt_Positive_feature_rows
             S = len(dwt_feature)
             print('\n', DWT_name,'\nHave constructed dwt feature')
@@ -93,7 +93,8 @@ def main():
             print("tf_train_record construct")
             tf_record(X_test, y_test, 'test')
             print("tf_test_record construct")
-            #_lstm.apply_lstm(len(X_train), len(X_test))
+            _lstm.define_timesteps_numinput(mod, max_level)
+            _lstm.apply_lstm(len(X_train), len(X_test), mod, max_level)
 
 
 
