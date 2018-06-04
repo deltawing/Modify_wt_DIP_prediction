@@ -54,6 +54,7 @@ train_set = tf.data.TFRecordDataset(["train.tfrecord"])
 test_set = tf.data.TFRecordDataset(["test.tfrecord"])
 def parse_function(example_proto):
     global num_input, timesteps
+    print('in parse_function ', num_input*timesteps)
     dics = {'X_batch': tf.FixedLenFeature(shape=(num_input*timesteps,), dtype=tf.float32),      #
             'Y_batch': tf.FixedLenFeature(shape=(1,), dtype=tf.float32)}
     parsed_example = tf.parse_single_example(example_proto, dics)  
